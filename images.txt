@@ -5,4 +5,11 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 mongo:latest
---platform=linux/arm64 mongo:latest
+polardbx/polardb-x
+node:14
+openjdk:18.0.2.1-slim-buster
+elasticsearch:7.17.6
+kibana:7.17.6
+minio
+redis
+mysql
