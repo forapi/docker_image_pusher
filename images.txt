@@ -14,5 +14,6 @@ kibana:7.17.6
 #minio
 redis
 mysql
+--platform=linux/arm64 mysql
 bitnami/kafka
 bitnami/zookeeper
