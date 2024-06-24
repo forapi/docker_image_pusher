@@ -17,4 +17,4 @@ mysql
 --platform=linux/arm64 mysql
 bitnami/kafka
 bitnami/zookeeper
---platform=linux/arm64 penjdk:17
+--platform=linux/arm64 openjdk:17
