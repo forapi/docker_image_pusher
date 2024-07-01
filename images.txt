@@ -18,7 +18,8 @@
 #bitnami/kafka
 #bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
-minio
-kafdrop
-zlmediakit
-
+#
+#minio
+#kafdrop
+#zlmediakit
+php
