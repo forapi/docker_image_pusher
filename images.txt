@@ -1,23 +1,23 @@
-nginx
---platform=linux/arm64 nginx
+#nginx
+#--platform=linux/arm64 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-mongo:latest
-polardbx/polardb-x
-node:14
-openjdk:18.0.2.1-slim-buster
-elasticsearch:7.17.6
-kibana:7.17.6
+#--platform=linux/arm64 xiaoyaliu/alist
+#mongo:latest
+#polardbx/polardb-x
+#node:14
+#openjdk:18.0.2.1-slim-buster
+#elasticsearch:7.17.6
+#kibana:7.17.6
 #minio
-redis
-mysql
---platform=linux/arm64 mysql
-bitnami/kafka
-bitnami/zookeeper
---platform=linux/arm64 openjdk:17
+#redis
+#mysql
+#--platform=linux/arm64 mysql
+#bitnami/kafka
+#bitnami/zookeeper
+#--platform=linux/arm64 openjdk:17
 minio
 kafdrop
 zlmediakit
