@@ -19,5 +19,5 @@
 #bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
 #minio
-kafdrop
+#kafdrop
 zlmediakit
