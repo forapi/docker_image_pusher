@@ -14,7 +14,8 @@
 #minio
 #redis
 #mysql
-mysql:8.0.37
+#mysql:8.0.37
+mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #bitnami/kafka
 #bitnami/zookeeper
@@ -23,4 +24,4 @@ mysql:8.0.37
 #minio
 #kafdrop
 #zlmediakit
-php
+#php
