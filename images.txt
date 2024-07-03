@@ -6,7 +6,8 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mongo:latest
-mongo-express
+mongo:4.4.29-focal
+#mongo-express
 #polardbx/polardb-x
 #node:14
 #openjdk:18.0.2.1-slim-buster
