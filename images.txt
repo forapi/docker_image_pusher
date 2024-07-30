@@ -41,5 +41,5 @@ zlmediakit/zlmediakit
 --platform=linux/arm64 zlmediakit/zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
---platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
+#--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
 
