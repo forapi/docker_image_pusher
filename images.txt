@@ -36,8 +36,9 @@
 #
 #minio
 obsidiandynamics/kafdrop
+## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
 zlmediakit/zlmediakit
---platform=linux/arm64 zlmediakit/zlmediakit
+## 没有arm版本--platform=linux/arm64 zlmediakit/zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
