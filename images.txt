@@ -6,32 +6,32 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mongo:latest
---platform=linux/arm64 mongo:latest
+#--platform=linux/arm64 mongo:latest
 #mongo:4.4.29-focal
 #mongo-express
---platform=linux/arm64 mongo-express:latest
+#--platform=linux/arm64 mongo-express:latest
 #polardbx/polardb-x
 #node:14
 #openjdk:18.0.2.1-slim-buster
 --platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #elasticsearch:7.17.6
---platform=linux/arm64 elasticsearch:7.17.6
+#--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
---platform=linux/arm64 kibana:7.17.6
+#--platform=linux/arm64 kibana:7.17.6
 #minio
---platform=linux/arm64 minio/minio
+#--platform=linux/arm64 minio/minio
 #minio/minio:RELEASE.2024-06-29T01-20-47Z-cpuv1
 #redis
---platform=linux/arm64 redis
+#--platform=linux/arm64 redis
 #mysql
 #mysql:8.0.37
 #mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #--platform=linux/arm64 mysql:8.0.37
 #bitnami/kafka
---platform=linux/arm64 bitnami/kafka
+#--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
---platform=linux/arm64 bitnami/zookeeper
+#--platform=linux/arm64 bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
 #
 #minio
