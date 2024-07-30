@@ -36,7 +36,6 @@
 #
 #minio
 obsidiandynamics/kafdrop
---platform=linux/arm64 obsidiandynamics/kafdrop
 zlmediakit/zlmediakit
 --platform=linux/arm64 zlmediakit/zlmediakit
 #php
