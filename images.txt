@@ -13,7 +13,7 @@
 #polardbx/polardb-x
 #node:14
 #openjdk:18.0.2.1-slim-buster
---platform=linux/arm64 openjdk:18.0.2.1-slim-buster
+#--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #elasticsearch:7.17.6
 #--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
@@ -36,9 +36,9 @@
 #
 #minio
 #kafdrop
---platform=linux/arm64 kafdrop
+#--platform=linux/arm64 kafdrop
 #zlmediakit
---platform=linux/arm64 zlmediakit
+#--platform=linux/arm64 zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
 --platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
