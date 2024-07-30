@@ -35,10 +35,10 @@
 #--platform=linux/arm64 openjdk:17
 #
 #minio
-#kafdrop
-#--platform=linux/arm64 kafdrop
-#zlmediakit
---platform=linux/arm64 zlmediakit
+obsidiandynamics/kafdrop
+--platform=linux/arm64 obsidiandynamics/kafdrop
+zlmediakit/zlmediakit
+--platform=linux/arm64 zlmediakit/zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
 --platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
