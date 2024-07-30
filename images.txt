@@ -38,7 +38,7 @@
 #kafdrop
 #--platform=linux/arm64 kafdrop
 #zlmediakit
-#--platform=linux/arm64 zlmediakit
+--platform=linux/arm64 zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
 --platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
