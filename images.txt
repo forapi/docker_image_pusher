@@ -18,7 +18,7 @@
 #--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
 #--platform=linux/arm64 kibana:7.17.6
-#minio
+minio/minio
 #--platform=linux/arm64 minio/minio
 #minio/minio:RELEASE.2024-06-29T01-20-47Z-cpuv1
 #redis
@@ -34,10 +34,9 @@
 #--platform=linux/arm64 bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
 #
-#minio
 #obsidiandynamics/kafdrop
 ## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
---platform=linux/arm64 ubuntu:20.04
+#--platform=linux/arm64 ubuntu:20.04
 #zlmediakit/zlmediakit
 ## 没有arm版本--platform=linux/arm64 zlmediakit/zlmediakit
 #php
