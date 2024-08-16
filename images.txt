@@ -37,7 +37,7 @@ minio/minio
 #obsidiandynamics/kafdrop
 ## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
 #--platform=linux/arm64 ubuntu:20.04
-#zlmediakit/zlmediakit
+zlmediakit/zlmediakit
 ## 没有arm版本--platform=linux/arm64 zlmediakit/zlmediakit
 #php
 #mcr.microsoft.com/dotnet/runtime
