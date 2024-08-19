@@ -36,6 +36,7 @@ minio/minio
 #
 #obsidiandynamics/kafdrop
 ## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
+ubuntu:20.04
 #--platform=linux/arm64 ubuntu:20.04
 zlmediakit/zlmediakit:master
 ## 没有arm版本--platform=linux/arm64 zlmediakit/zlmediakit
@@ -43,5 +44,5 @@ zlmediakit/zlmediakit:master
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
---platform=linux/arm64 mcr.microsoft.com/dotnet/runtime:6.0
+#--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime:6.0
 
