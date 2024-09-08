@@ -46,4 +46,6 @@ minio/minio
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime:6.0
 #gitlab/gitlab-ce
-gitlab/gitlab-ce:16.2.4-ce.0
+#gitlab/gitlab-ce:16.2.4-ce.0
+#kafdrop 需要
+eclipse-temurin:17.0.12_7-jdk
