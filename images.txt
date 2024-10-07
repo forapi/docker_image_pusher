@@ -50,4 +50,5 @@ minio/minio
 #gitlab/gitlab-ce:16.2.4-ce.0
 #kafdrop 需要
 #eclipse-temurin:17.0.12_7-jdk
---platform=linux/arm64 jellyfin/jellyfin
+#--platform=linux/arm64 jellyfin/jellyfin
+--platform=linux/arm64 cnk3x/xunlei
