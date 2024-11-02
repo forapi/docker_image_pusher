@@ -51,4 +51,6 @@ minio/minio
 #kafdrop 需要
 #eclipse-temurin:17.0.12_7-jdk
 #--platform=linux/arm64 jellyfin/jellyfin
---platform=linux/arm64 cnk3x/xunlei
+#--platform=linux/arm64 cnk3x/xunlei
+continuumio/anaconda3
+--platform=linux/arm64 continuumio/anaconda3
