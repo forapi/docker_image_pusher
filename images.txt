@@ -28,14 +28,10 @@ minio/minio
 #mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #--platform=linux/arm64 mysql:8.0.37
-#bitnami/kafka
-#--platform=linux/arm64 bitnami/kafka
-#bitnami/zookeeper
-#--platform=linux/arm64 bitnami/zookeeper
-#wurstmeister/kafka
-#--platform=linux/arm64 wurstmeister/kafka
-wurstmeister/zookeeper
---platform=linux/arm64 wurstmeister/zookeeper
+bitnami/kafka
+--platform=linux/arm64 bitnami/kafka
+bitnami/zookeeper
+--platform=linux/arm64 bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
 #
 #obsidiandynamics/kafdrop
