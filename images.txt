@@ -54,4 +54,5 @@
 #--platform=linux/arm64 cnk3x/xunlei
 #continuumio/anaconda3
 #--platform=linux/arm64 continuumio/anaconda3
-stilliard/pure-ftpd
+#stilliard/pure-ftpd
+kibatic/proftpd
