@@ -18,7 +18,7 @@
 #--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
 #--platform=linux/arm64 kibana:7.17.6
-minio/minio
+#minio/minio
 #--platform=linux/arm64 minio/minio
 #minio/minio:RELEASE.2024-06-29T01-20-47Z-cpuv1
 #redis
@@ -28,10 +28,10 @@ minio/minio
 #mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #--platform=linux/arm64 mysql:8.0.37
-bitnami/kafka
---platform=linux/arm64 bitnami/kafka
-bitnami/zookeeper
---platform=linux/arm64 bitnami/zookeeper
+#bitnami/kafka
+#--platform=linux/arm64 bitnami/kafka
+#bitnami/zookeeper
+#--platform=linux/arm64 bitnami/zookeeper
 #--platform=linux/arm64 openjdk:17
 #
 #obsidiandynamics/kafdrop
@@ -54,3 +54,5 @@ bitnami/zookeeper
 #--platform=linux/arm64 cnk3x/xunlei
 #continuumio/anaconda3
 #--platform=linux/arm64 continuumio/anaconda3
+stilliard/pure-ftpd
+--platform=linux/arm64 stilliard/pure-ftpd
