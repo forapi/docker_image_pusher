@@ -55,4 +55,3 @@
 #continuumio/anaconda3
 #--platform=linux/arm64 continuumio/anaconda3
 stilliard/pure-ftpd
---platform=linux/arm64 stilliard/pure-ftpd
