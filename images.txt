@@ -38,8 +38,8 @@
 ## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
 #ubuntu:20.04
 #--platform=linux/arm64 ubuntu:20.04
-#zlmediakit/zlmediakit:master
-## 没有arm版本--platform=linux/arm64 zlmediakit/zlmediakit
+zlmediakit/zlmediakit:master
+--platform=linux/arm64 zlmediakit/zlmediakit:master
 #php
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
@@ -55,4 +55,4 @@
 #continuumio/anaconda3
 #--platform=linux/arm64 continuumio/anaconda3
 #stilliard/pure-ftpd
-kibatic/proftpd
+#kibatic/proftpd
