@@ -56,3 +56,5 @@ zlmediakit/zlmediakit:master
 #--platform=linux/arm64 continuumio/anaconda3
 #stilliard/pure-ftpd
 #kibatic/proftpd
+georchestra/geoserver
+--platform=linux/arm64 georchestra/geoserver
