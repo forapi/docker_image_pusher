@@ -57,4 +57,4 @@
 #stilliard/pure-ftpd
 #kibatic/proftpd
 georchestra/geoserver
---platform=linux/arm64 georchestra/geoserver
+## 没有arm版本--platform=linux/arm64 georchestra/geoserver
