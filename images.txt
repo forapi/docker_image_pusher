@@ -56,5 +56,4 @@
 #--platform=linux/arm64 continuumio/anaconda3
 #stilliard/pure-ftpd
 #kibatic/proftpd
-georchestra/geoserver
-## 没有arm版本--platform=linux/arm64 georchestra/geoserver
+emqx/emqx:5.8.4
