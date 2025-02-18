@@ -28,6 +28,8 @@
 #mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #--platform=linux/arm64 mysql:8.0.37
+mysql:8.0.41
+--platform=linux/arm64 mysql:8.0.41
 #bitnami/kafka
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
