@@ -12,6 +12,8 @@
 #--platform=linux/arm64 mongo-express:latest
 #polardbx/polardb-x
 #node:14
+node:16
+--platform=linux/arm64 node:16
 #openjdk:18.0.2.1-slim-buster
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #elasticsearch:7.17.6
