@@ -30,8 +30,8 @@ node:16
 #mysql:8.0.37-oraclelinux8
 #--platform=linux/arm64 mysql
 #--platform=linux/arm64 mysql:8.0.37
-mysql:8.0.41
---platform=linux/arm64 mysql:8.0.41
+#mysql:8.0.41
+#--platform=linux/arm64 mysql:8.0.41
 #bitnami/kafka
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
@@ -43,7 +43,7 @@ mysql:8.0.41
 #ubuntu:20.04
 #--platform=linux/arm64 ubuntu:20.04
 #zlmediakit/zlmediakit:master
-#--platform=linux/arm64 zlmediakit/zlmediakit:master
+--platform=linux/arm64 zlmediakit/zlmediakit:master
 #php
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
@@ -60,4 +60,4 @@ mysql:8.0.41
 #--platform=linux/arm64 continuumio/anaconda3
 #stilliard/pure-ftpd
 #kibatic/proftpd
-emqx/emqx:5.8.4
+#emqx/emqx:5.8.4
