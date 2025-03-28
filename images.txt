@@ -12,8 +12,8 @@
 #--platform=linux/arm64 mongo-express:latest
 #polardbx/polardb-x
 #node:14
-node:16
---platform=linux/arm64 node:16
+#node:16
+#--platform=linux/arm64 node:16
 #openjdk:18.0.2.1-slim-buster
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #elasticsearch:7.17.6
@@ -43,7 +43,7 @@ node:16
 #ubuntu:20.04
 #--platform=linux/arm64 ubuntu:20.04
 #zlmediakit/zlmediakit:master
---platform=linux/arm64 zlmediakit/zlmediakit:master
+#--platform=linux/arm64 zlmediakit/zlmediakit:master
 #php
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
@@ -61,3 +61,5 @@ node:16
 #stilliard/pure-ftpd
 #kibatic/proftpd
 #emqx/emqx:5.8.4
+coturn/coturn
+--platform=linux/arm64 coturn/coturn
