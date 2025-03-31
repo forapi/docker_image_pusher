@@ -48,6 +48,7 @@
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
 #mcr.microsoft.com/dotnet/aspnet:6.0
+--platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime:6.0
 #gitlab/gitlab-ce
@@ -61,5 +62,5 @@
 #stilliard/pure-ftpd
 #kibatic/proftpd
 #emqx/emqx:5.8.4
-coturn/coturn
---platform=linux/arm64 coturn/coturn
+#coturn/coturn
+#--platform=linux/arm64 coturn/coturn
