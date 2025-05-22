@@ -64,3 +64,6 @@
 #emqx/emqx:5.8.4
 #coturn/coturn
 #--platform=linux/arm64 coturn/coturn
+mintplexlabs/anythingllm:master
+--platform=linux/arm64 mintplexlabs/anythingllm:master
+
