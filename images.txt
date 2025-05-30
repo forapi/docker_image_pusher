@@ -48,9 +48,10 @@
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
 #mcr.microsoft.com/dotnet/aspnet:6.0
---platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
+#--platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:6.0
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime
 #--platform=linux/arm64 mcr.microsoft.com/dotnet/runtime:6.0
+--platform=linux/arm64 mcr.microsoft.com/dotnet/aspnet:8.0
 #gitlab/gitlab-ce
 #gitlab/gitlab-ce:16.2.4-ce.0
 #kafdrop 需要
