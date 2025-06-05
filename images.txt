@@ -66,4 +66,5 @@
 #--platform=linux/arm64 coturn/coturn
 #mintplexlabs/anythingllm:master
 #--platform=linux/arm64 mintplexlabs/anythingllm:master
-verdaccio/verdaccio
+#verdaccio/verdaccio
+verdaccio/verdaccio:5.30
