@@ -68,4 +68,5 @@
 #--platform=linux/arm64 mintplexlabs/anythingllm:master
 #verdaccio/verdaccio
 #verdaccio/verdaccio:5.30
-verdaccio/verdaccio:6.0
+#verdaccio/verdaccio:6.0
+verdaccio/verdaccio:5.26.2
