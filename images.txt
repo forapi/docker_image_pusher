@@ -32,7 +32,7 @@
 #--platform=linux/arm64 mysql:8.0.37
 #mysql:8.0.41
 #--platform=linux/arm64 mysql:8.0.41
-#bitnami/kafka
+bitnami/kafka
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
 #--platform=linux/arm64 bitnami/zookeeper
@@ -70,4 +70,4 @@
 #verdaccio/verdaccio:5.30
 #verdaccio/verdaccio:6.0
 #verdaccio/verdaccio:5.26.2
-verdaccio/verdaccio:5.25.0
+#verdaccio/verdaccio:5.25.0
