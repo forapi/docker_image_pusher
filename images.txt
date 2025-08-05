@@ -16,6 +16,7 @@
 #--platform=linux/arm64 node:16
 #openjdk:18.0.2.1-slim-buster
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
+openjdk:21-slim-buster
 #elasticsearch:7.17.6
 #--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
