@@ -74,4 +74,5 @@ bitnami/kafka
 #verdaccio/verdaccio:6.0
 #verdaccio/verdaccio:5.26.2
 #verdaccio/verdaccio:5.25.0
-rbgcsail/diffdock
+#rbgcsail/diffdock
+mpromonet/webrtc-streamer:v0.8.4-amd64
