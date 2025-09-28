@@ -75,4 +75,5 @@ bitnami/kafka
 #verdaccio/verdaccio:5.26.2
 #verdaccio/verdaccio:5.25.0
 #rbgcsail/diffdock
-mpromonet/webrtc-streamer:v0.8.4-amd64
+#mpromonet/webrtc-streamer:v0.8.4-amd64
+nvidia/cuda:12.4.1-devel-ubuntu22.04
