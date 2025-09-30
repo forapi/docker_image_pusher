@@ -48,7 +48,8 @@ bitnami/kafka
 #--platform=linux/arm64 zlmediakit/zlmediakit:master
 #php
 #--platform=linux/arm64 php
-php:7.1.21-fpm
+#php:7.1.21-fpm
+php:7.2.1-fpm-alpine
 #--platform=linux/arm64 php:7.1.21-fpm
 #--platform=linux/arm64 php:8.2-fpm
 #mcr.microsoft.com/dotnet/runtime
