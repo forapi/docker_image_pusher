@@ -50,7 +50,7 @@
 #--platform=linux/arm64 php
 #php:7.1.21-fpm
 ## 可以 php:7.2.1-fpm-alpine
---platform=linux/arm64 php:7.1.21-fpm
+#--platform=linux/arm64 php:7.1.21-fpm
 #--platform=linux/arm64 php:8.2-fpm
 #mcr.microsoft.com/dotnet/runtime
 #mcr.microsoft.com/dotnet/runtime:6.0
@@ -84,3 +84,4 @@
 #nvidia/cuda:12.4.1-devel-ubuntu22.04
 #nvidia/cuda:12.8.1-devel-ubuntu22.04
 #nvidia/cuda:12.1.0-devel-ubuntu22.04
+xbeeant/oo-chinese-unlimit
