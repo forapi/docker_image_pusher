@@ -84,4 +84,5 @@
 #nvidia/cuda:12.4.1-devel-ubuntu22.04
 #nvidia/cuda:12.8.1-devel-ubuntu22.04
 #nvidia/cuda:12.1.0-devel-ubuntu22.04
-xbeeant/oo-chinese-unlimit:8.3.3
+#xbeeant/oo-chinese-unlimit:8.3.3
+xbeeant/oo-chinese-unlimit:7.4.0.1
