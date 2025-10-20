@@ -11,6 +11,7 @@
 #mongo-express
 #--platform=linux/arm64 mongo-express:latest
 #polardbx/polardb-x
+--platform=linux/arm64 polardbx/polardb-x
 #node:14
 #node:16
 #--platform=linux/arm64 node:16
