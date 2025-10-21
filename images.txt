@@ -11,7 +11,7 @@
 #mongo-express
 #--platform=linux/arm64 mongo-express:latest
 #polardbx/polardb-x
---platform=linux/arm64 polardbx/polardb-x
+#--platform=linux/arm64 polardbx/polardb-x
 #node:14
 #node:16
 #--platform=linux/arm64 node:16
@@ -45,6 +45,7 @@
 ## 没有arm版本--platform=linux/arm64 obsidiandynamics/kafdrop
 #ubuntu:20.04
 #--platform=linux/arm64 ubuntu:20.04
+ubuntu:22.04
 #zlmediakit/zlmediakit:master
 #--platform=linux/arm64 zlmediakit/zlmediakit:master
 #php
