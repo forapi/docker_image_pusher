@@ -19,6 +19,7 @@
 #openjdk:18.0.2.1-slim-buster
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #openjdk:21-slim-buster
+openjdk:11
 #elasticsearch:7.17.6
 #--platform=linux/arm64 elasticsearch:7.17.6
 #kibana:7.17.6
@@ -88,4 +89,4 @@ ubuntu:22.04
 #nvidia/cuda:12.1.0-devel-ubuntu22.04
 #xbeeant/oo-chinese-unlimit:8.3.3
 #xbeeant/oo-chinese-unlimit:7.4.0.1
-chromadb/chroma
+#chromadb/chroma
