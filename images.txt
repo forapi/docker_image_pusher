@@ -36,6 +36,7 @@
 #--platform=linux/arm64 mysql:8.0.37
 #mysql:8.0.41
 #--platform=linux/arm64 mysql:8.0.41
+mysql:8.0.44
 #bitnami/kafka
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
