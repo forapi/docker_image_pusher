@@ -1,13 +1,14 @@
 #nginx
---platform=linux/arm64 nginx
+#--platform=linux/arm64 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mongo:latest
---platform=linux/arm64 mongo:latest
---platform=linux/arm64 mongo:7.0.28
+#mongo:latest
+mongo:7.0.28
+#--platform=linux/arm64 mongo:latest
+#--platform=linux/arm64 mongo:7.0.28
 #mongo:4.4.29-focal
 #mongo-express
 #--platform=linux/arm64 mongo-express:latest
