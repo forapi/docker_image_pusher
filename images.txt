@@ -32,7 +32,7 @@
 #redis
 #--platform=linux/arm64 redis
 #--platform=linux/arm64 redis:6.2.21
---platform=linux/arm64 redis:7.4.7
+#--platform=linux/arm64 redis:7.4.7
 #mysql
 #mysql:8.0.37
 #mysql:8.0.37-oraclelinux8
@@ -40,6 +40,7 @@
 #--platform=linux/arm64 mysql:8.0.37
 #mysql:8.0.41
 #--platform=linux/arm64 mysql:8.0.41
+--platform=linux/arm64 mysql:8.0.45
 #mysql:8.0.44
 mysql:5.7.44
 #bitnami/kafka
