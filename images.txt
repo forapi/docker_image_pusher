@@ -9,6 +9,7 @@
 #mongo:7.0.28
 #--platform=linux/arm64 mongo:latest
 #--platform=linux/arm64 mongo:7.0.28
+--platform=linux/arm64 mongo:5.0.32
 #mongo:4.4.29-focal
 #mongo-express
 #--platform=linux/arm64 mongo-express:latest
