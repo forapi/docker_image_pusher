@@ -1,5 +1,5 @@
-nginx
---platform=linux/arm64 nginx
+#nginx
+#--platform=linux/arm64 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -24,7 +24,7 @@ nginx
 #openjdk:21-slim-buster
 #openjdk:11
 #elasticsearch:7.17.6
-elasticsearch:8.19.10
+#elasticsearch:8.19.10
 #--platform=linux/arm64 elasticsearch:7.17.6
 #--platform=linux/arm64 elasticsearch:8.19.10
 #kibana:7.17.6
@@ -46,8 +46,8 @@ elasticsearch:8.19.10
 #--platform=linux/arm64 mysql:8.0.45
 #mysql:8.0.44
 #mysql:5.7.44
-mysql:8.0.45
-#bitnami/kafka
+#mysql:8.0.45
+bitnami/kafka
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
 #--platform=linux/arm64 bitnami/zookeeper
