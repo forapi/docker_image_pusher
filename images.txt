@@ -47,7 +47,7 @@
 #mysql:8.0.44
 #mysql:5.7.44
 #mysql:8.0.45
-bitnami/kafka:latest
+bitnami/kafka:4.1
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
 #--platform=linux/arm64 bitnami/zookeeper
