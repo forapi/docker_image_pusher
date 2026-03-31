@@ -101,3 +101,4 @@ bitnami/kafka:4.1
 #xbeeant/oo-chinese-unlimit:8.3.3
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
+python:3
