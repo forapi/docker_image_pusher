@@ -1,4 +1,4 @@
-nginx
+#nginx
 #--platform=linux/arm64 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -47,6 +47,8 @@ nginx
 #mysql:8.0.44
 #mysql:5.7.44
 #mysql:8.0.45
+--platform=linux/arm64 bitnamilegacy/kafka:4.0.0-debian-12-r10
+# 下面的库关了
 #bitnami/kafka:4.1
 #--platform=linux/arm64 bitnami/kafka
 #bitnami/zookeeper
