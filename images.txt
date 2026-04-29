@@ -23,7 +23,7 @@
 #openjdk:18.0.2.1-slim
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
 #--platform=linux/arm64 openjdk:18.0.2.1-slim
---platform=linux/arm64 openjdk:21-slim-buster
+#--platform=linux/arm64 openjdk:21-slim-buster
 #openjdk:21-slim-buster
 #openjdk:11
 #elasticsearch:7.17.6
@@ -106,4 +106,4 @@
 #xbeeant/oo-chinese-unlimit:8.3.3
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
-
+busybox
