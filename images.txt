@@ -108,3 +108,5 @@ mysql:8.0.46
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
 #busybox
+--platform=linux/arm64 python:3.11-slim
+
