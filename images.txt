@@ -9,6 +9,7 @@
 #mongo:7.0.28
 #--platform=linux/arm64 mongo:latest
 #--platform=linux/arm64 mongo:7.0.28
+--platform=linux/arm64 mongo:7.0.37
 #--platform=linux/arm64 mongo:5.0.32
 #mongo:4.4.29-focal
 #mongo-express
@@ -108,5 +109,5 @@ mysql:8.0.46
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
 #busybox
---platform=linux/arm64 python:3.11-slim
+#--platform=linux/arm64 python:3.11-slim
 
