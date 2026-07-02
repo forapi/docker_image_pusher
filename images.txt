@@ -110,4 +110,5 @@ mysql:8.0.46
 #chromadb/chroma
 #busybox
 #--platform=linux/arm64 python:3.11-slim
+centos:7
 
