@@ -1,5 +1,5 @@
-nginx
---platform=linux/arm64 nginx
+#nginx
+#--platform=linux/arm64 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -109,6 +109,8 @@ mysql:8.0.46
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
 #busybox
+python:3.11-alpine
+--platform=linux/arm64 python:3.11-alpine
 #--platform=linux/arm64 python:3.11-slim
-centos:7
+#centos:7
 
