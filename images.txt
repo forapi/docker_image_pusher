@@ -109,8 +109,9 @@ mysql:8.0.46
 #xbeeant/oo-chinese-unlimit:7.4.0.1
 #chromadb/chroma
 #busybox
-python:3.11-alpine
---platform=linux/arm64 python:3.11-alpine
+#python:3.11-alpine
+#--platform=linux/arm64 python:3.11-alpine
 #--platform=linux/arm64 python:3.11-slim
 #centos:7
-
+sslscan:sslscan
+--platform=linux/arm64 sslscan:sslscan
