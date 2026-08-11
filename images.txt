@@ -114,4 +114,4 @@ mysql:8.0.46
 #--platform=linux/arm64 python:3.11-slim
 #centos:7
 sslscan:sslscan
---platform=linux/arm64 sslscan:sslscan
+#--platform=linux/arm64 sslscan:sslscan
