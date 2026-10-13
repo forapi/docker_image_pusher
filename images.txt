@@ -37,6 +37,7 @@ nginx
 #--platform=linux/arm64 minio/minio
 #minio/minio:RELEASE.2024-06-29T01-20-47Z-cpuv1
 #redis
+redis:7.2-alpine
 #--platform=linux/arm64 redis
 #--platform=linux/arm64 redis:6.2.21
 #--platform=linux/arm64 redis:7.4.7
