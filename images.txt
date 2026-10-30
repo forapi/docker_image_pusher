@@ -20,6 +20,7 @@ nginx
 #node:16
 #--platform=linux/arm64 node:16
 #node:20-alpine
+node:22-alpine
 #openjdk:18.0.2.1-slim-buster
 #openjdk:18.0.2.1-slim
 #--platform=linux/arm64 openjdk:18.0.2.1-slim-buster
@@ -116,3 +117,5 @@ python:3.12-slim
 #--platform=linux/arm64 python:3.11-slim
 #centos:7
 #--platform=linux/arm64 alpine
+maven:3.9.11-eclipse-temurin-21
+eclipse-temurin:21-jre
