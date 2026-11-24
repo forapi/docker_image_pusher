@@ -119,3 +119,4 @@ python:3.12-slim
 #--platform=linux/arm64 alpine
 maven:3.9.11-eclipse-temurin-21
 eclipse-temurin:21-jre
+ghcr.io/tale/headplane:latest
