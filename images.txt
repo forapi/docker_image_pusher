@@ -120,4 +120,4 @@ python:3.12-slim
 maven:3.9.11-eclipse-temurin-21
 eclipse-temurin:21-jre
 ghcr.io/tale/headplane:latest
-headscale/headscale:0.29.7
+headscale/headscale:v0.29.7
