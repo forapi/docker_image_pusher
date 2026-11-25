@@ -123,3 +123,4 @@ ghcr.io/tale/headplane:latest
 headscale/headscale:v0.29.7
 netbirdio/dashboard:latest
 netbirdio/netbird-server:latest
+curlimages/curl
